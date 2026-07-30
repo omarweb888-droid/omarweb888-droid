@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Learning+Node.js;Future+SaaS+Founder" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=omarweb888-droid&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
 
 </div>
 
@@ -80,11 +80,13 @@ const omar = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarweb888-droid&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarweb888-droid&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+ 
 
 ---
 
@@ -92,8 +94,7 @@ const omar = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=omarweb888-droid&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -102,7 +103,7 @@ const omar = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarweb888-droid&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
