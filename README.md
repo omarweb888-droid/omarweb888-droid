@@ -1,165 +1,292 @@
 <div align="center">
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QPAR6Q2FVqOUhGRTz6aolWrYuHG-GOAzbxP1S5p6Xw&s=10" width="75%" height="2%" />
+
+<br>
+
 # 👋 Hi, I'm Omar Ragab
 
-### Frontend Developer • Future Full Stack Developer 🚀
+### 🚀 Frontend Developer | Future Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Learning+Node.js;Future+SaaS+Founder" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Learning+Backend+Development;Future+Full+Stack+Developer;Building+Modern+Web+Applications" />
 
-<img src="https://komarev.com/ghpvc/?username=omarweb888-droid&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=omarweb888-droid&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/omarweb888-droid?logo=github&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-```ts
-const omar = {
-    name: "Omar Ragab",
-    location: "Egypt 🇪🇬",
-    role: "Frontend Developer",
-    currentFocus: "Learning Node.js",
-    goal: "Build SaaS Products & Software Business",
-    passion: [
-        "Web Development",
-        "UI/UX",
-        "Open Source",
-        "Content Creation"
-    ]
-}
-```
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+### Hello 👋
 
-# 🚀 Tech Stack
+I'm **Omar Ragab**, a passionate **Frontend Developer** focused on creating clean, responsive, and modern web applications.
 
-## Frontend
+Currently, I'm mastering **React.js** while expanding my knowledge in **Backend Development** to become a professional **Full Stack Developer**.
 
-<p>
+I enjoy turning ideas into real products that help people and businesses solve real-world problems.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass"/>
+### 🚀 Currently
 
-</p>
+- ⚛ Learning Advanced React
+- 🌱 Learning Backend Development
+- 💻 Building Real Projects
+- 📚 Improving Problem Solving
+- 🎯 Growing My Portfolio
+- 🚀 Preparing For Freelancing
+
+<br clear="right"/>
 
 ---
 
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma"/>
-
-</p>
-
----
-
-## Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-| Project | Status |
-|----------|--------|
-| 💼 Personal Portfolio | 🚧 In Progress |
-| 🛒 E-Commerce Website | 🚧 In Progress |
-| ⚽ Football Booking Platform | 🚧 In Progress |
-| 📊 React Admin Dashboard | 🚧 In Progress |
-| 🌦 Weather App | ✅ Completed |
-
----
-
-# 📊 GitHub Analytics
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarweb888-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+### 🎨 Frontend
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarweb888-droid&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind"/>
+
+<br><br>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+
+<br><br>
+
+### 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
 
 </div>
 
- 
-
 ---
-
-# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omarweb888-droid&theme=tokyonight&hide_border=true"/>
+## 💙 "Build. Learn. Improve. Repeat."
+
 </div>
+
+-----
 
 ---
 
-# 📈 Contribution Graph
+
+# 🚀 What I'm Working On
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarweb888-droid&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
+| 🌱 Learning | 🚀 Building | 🎯 Goal |
+|:-----------:|:-----------:|:-------:|
+| Backend Development | Real World Projects | Become Full Stack Developer |
+| Advanced React | Portfolio Projects | Freelancing |
+| Problem Solving | Modern UI/UX | SaaS Products |
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true"/>
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## 🏥 Hospital Management System
+
+Modern hospital management platform with a clean dashboard for managing healthcare operations.
+
+### ✨ Modules
+
+🩺 Doctors
+
+🧑 Patients
+
+📅 Appointments
+
+💊 Pharmacy
+
+🧪 Laboratory
+
+💳 Billing
+
+📊 Dashboard
+
+📄 Reports
+
+**Tech Stack**
+
+React • Node.js • MySQL • REST API
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-blue?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## 💼 FreelanceHub
+
+A modern freelance platform inspired by Upwork with multiple dashboards and real-time features.
+
+### ✨ Highlights
+
+👤 Client
+
+💻 Freelancer
+
+👑 Admin
+
+💬 Real-time Chat
+
+⭐ Reviews
+
+🔔 Notifications
+
+📂 Portfolio
+
+🛡 Roles & Permissions
+
+**Tech Stack**
+
+React • Node.js • MySQL • REST API • WebSockets
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-blue?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## 🛒 E-Commerce Platform
+
+Modern online shopping platform focused on speed, responsive design and clean user experience.
+
+### ✨ Features
+
+🛍 Products
+
+❤️ Wishlist
+
+🛒 Cart
+
+💳 Checkout
+
+👤 Authentication
+
+📦 Orders
+
+📈 Dashboard
+
+**Tech Stack**
+
+React • Node.js • MySQL
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-blue?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+---
 
-- ✅ Become a Full Stack Developer
-- ✅ Build 10+ Professional Projects
-- ✅ Launch My Portfolio Website
-- ✅ Start Freelancing
-- ✅ Build My First SaaS Product
-- ✅ Grow My Personal Brand
+# 🎯 Goals
+
+<div align="center">
+
+### 💡 My Mission
+
+Turning ideas into real-world products that help people and businesses through clean, scalable, and modern web applications.
+
+</div>
+
+<br>
+
+- 🚀 Become a Professional Full Stack Developer
+- 💼 Start Freelancing
+- 🌍 Build SaaS Products
+- 📱 Create Useful Applications
+- 🤝 Help People Turn Their Ideas Into Reality
+- 📚 Never Stop Learning
+- ⭐ Contribute to Open Source
 
 ---
+
 
 # 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.youtube.com/@YOUR-YOUTUBE-USERNAME">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://youtube.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.tiktok.com/@YOUR-TIKTOK-USERNAME">
+  <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="48"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://tiktok.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/YOUR-X-USERNAME">
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="48"/>
 </a>
 
 </p>
@@ -168,10 +295,19 @@ const omar = {
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Keep+Learning+%F0%9F%9A%80"/>
 
-*"Code. Learn. Build. Share. Repeat."*
+<br><br>
 
-⭐ Don't forget to star my repositories if you like my work.
+<h3>⭐ Thanks for stopping by!</h3>
+
+<p>
+I'm passionate about building modern web applications,<br>
+learning new technologies, and turning ideas into real products.
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=See%20You%20Again!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=twinkling&color=0:0D1117,50:2563EB,100:38BDF8&section=footer"/>
 
 </div>
